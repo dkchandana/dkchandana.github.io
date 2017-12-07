@@ -129,13 +129,13 @@ body {
     color: #FFFFFF;
     text-decoration: none !important;
     height: 10%;
-    font-size: large;
+    font-size: x-large;
     padding: 0.75em;
 }
 
 .satechiLinkContainer{
     background-color: #00AFF2;
-    margin-top: 15%;
+    margin-top: 10%;
     border-radius: 0.5em;
 }
 
