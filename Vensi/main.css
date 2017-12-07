@@ -3,9 +3,9 @@ body, html {
     overflow-x: hidden;
 }
 
-.bg {
+.bg { 
     background-image: url("BokehBackground.jpg");
-    height: 100%;
+    height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -62,7 +62,6 @@ body {
 
 .txt-center{
     text-align: center;
-
 }
 
 .add-on{
@@ -75,7 +74,6 @@ body {
 
 .h2margin{
     margin-top: 2% !important;
-      font-size: xx-large;
 }
 
 .search-icon{
@@ -128,14 +126,14 @@ body {
     display: block;
     color: #FFFFFF;
     text-decoration: none !important;
-    height: 10%;
-    font-size: x-large;
+    height: 15%;
+    font-size: xx-large;
     padding: 0.75em;
 }
 
 .satechiLinkContainer{
     background-color: #00AFF2;
-    margin-top: 10%;
+    margin-top: 15%;
     border-radius: 0.5em;
 }
 
